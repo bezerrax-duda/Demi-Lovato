@@ -1,0 +1,78 @@
+@import url('global.css');
+
+
+h1 {
+    font-family: "Tangerine-Bold";
+    font-size: 59px;
+    text-align: center;
+    color: #982598;
+}
+
+body {
+    background-color:  #FDCFFA;
+}
+
+#main-01 {
+     
+    display: flex ;
+    flex-direction:column;/*vertical*/ 
+    justify-content:center;
+    align-items:center;
+}
+
+h3 {
+    font-family: "Tangerine-Bold";
+    font-size: 45px;
+    text-align: center;
+
+}
+
+
+#demi_lovato_albums_amazon {
+    display:flex;
+    justify-content:center;
+    align-self:center;
+
+}
+
+li {
+    text-decoration: none;
+    color:rgb(41, 54, 129);
+    font-size:27px;
+    font-weight: 70;
+    padding: 10px;
+}
+
+.listas {
+    border: 2px solid  #D78FEE;
+    width: 100%;
+}
+
+/*
+diminuir a letra 
+*/
+
+aside {
+    display:flex;
+    justify-content: space-around;
+}
+
+
+
+@media screen and (max-width:375px){
+    h3 {
+        font-size: 45px;
+    }
+
+    h1 {
+        font-size:59px;
+    }
+}
+
+@media screen and (min-width:376px) and (max-width:767px){
+    
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    
+}

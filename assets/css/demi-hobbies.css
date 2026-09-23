@@ -1,0 +1,53 @@
+@import url('global.css');
+
+h1 {
+    font-family: "Tangerine-Bold";
+    font-size: 45px;
+    text-align: center;
+    color: #982598;
+}
+
+body {
+    background-color: #FDCFFA;
+}
+
+text {
+    background-color: rgb(208, 231, 230);
+}
+
+h3 {
+    font-family:"Tangerine-Bold" ;
+    font-size: 49px;
+    text-align: justify;
+}
+
+#had-no-idea-demi-lovato-is-a-knitter-v0-lp2hpkpr7udz {
+     display: flex;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+   
+}
+
+ #fofs6cbwyaadqa {
+        display: flex;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+
+
+
+
+@media screen and (max-width:375px) {
+    
+}
+
+@media screen and (min-width:376px) and (max-width:767px) {
+    
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    
+}

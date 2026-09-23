@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "DynaPuff";
+    src: url(/assets/font/DynaPuff-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: "Tangerine-Bold";
+    src: url(/assets/font/Tangerine-Bold.ttf);
+}
+
+@font-face {
+    font-family: "Tangerine-Regular";
+    src: url(/assets/font/Tangerine-Regular.ttf);
+}
+
+#Menu {
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+}
+
+#Menu ul li {
+    display: inline-block;
+}
+
+#Menu ul li a {
+    text-decoration: none;
+    color: #9B5DE0;
+}
+
+
+
+h1 {
+    color: #4E56C0;
+    font-weight: 500;
+}
+
+h3 {
+    color: black
+}
+
+h2 {
+    color: #D78FEE
+}
+
+
+footer {
+    background-color:#FDCFFA;
+    display: flex;
+    justify-content: space-around;
+    height: 5vh;
+    align-items: center;
+}
+
+footer span a {
+    text-decoration: none;
+    font-size: 20px;
+    color:#D78FEE;
+    font-weight: 800;
+}
+
+
+@media screen and (max-width:375px){
+    
+}
+
+@media screen and (min-width:376px) and (max-width:767px){
+    
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

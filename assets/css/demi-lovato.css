@@ -1,0 +1,64 @@
+@import url('global.css');
+
+h1 {
+    font-family: "Tangerine-Bold";
+    font-size: 55px;
+    text-align: center;
+    color: #982598;
+}
+
+body {
+    background-color: #FDCFFA;
+}
+
+text {
+    background-color: rgb(208, 231, 230);
+}
+
+h3 {
+    font-family:"Tangerine-Bold" ;
+    font-size: 35px;
+    text-align: justify;
+   
+}
+
+h2 {
+    font-family: "Tangerine-Bold"  ;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(208, 231, 230);
+}
+
+#MV5BNTQyZmFlODQtOGMxOS00Y2NiLWEwODctNTM3MTY5NzMxZTYzXkEyXkFqcGc {
+     display: flex;
+    justify-content: center;
+    align-self: center;
+   
+}
+
+#demihouse {
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+aside {
+    display: flex;
+    justify-content: space-around;
+}
+/*
+/*
+ajustar imagem
+*/
+
+@media screen and (max-width:375px){
+    
+}
+
+@media screen and (min-width:376px) and (max-width:767px){
+    
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    
+}
