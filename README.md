@@ -13,8 +13,8 @@ O tema escolhido foi por que eu sigo uma famosa, e ela admira muito a Demi, eu t
 ## Escolha do Layout (fonte e paleta de cores)
 
 As cores escolhidas foram selecionas do site _color hunt_. Escolhi a paleta por que as cores combinam com a cantoran, e a fonte também achei que combina muito com ela. (minha opinião).
-Cores: [https://colorhunt.co/palette/15173d982598e491c9f1e9e9]
-Fonte: [https://fonts.google.com/specimen/Tangerine?query=Toshi+Omagari&preview.script=Latn].
+Cores: https://colorhunt.co/palette/15173d982598e491c9f1e9e9
+Fonte: https://fonts.google.com/specimen/Tangerine?query=Toshi+Omagari&preview.script=Latn
 
 ## O que eu aprendi
 
